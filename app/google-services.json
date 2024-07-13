@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "78260332614",
+    "project_id": "signinapplication-cfedf",
+    "storage_bucket": "signinapplication-cfedf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78260332614:android:1a120ab9047d42ef288247",
+        "android_client_info": {
+          "package_name": "com.example.googlesigninapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78260332614-s46h8p847iuh215nkapti4fhemgn8d6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlesigninapplication",
+            "certificate_hash": "393395479c23cd6c3fb6b4bca023e1ad9199da0c"
+          }
+        },
+        {
+          "client_id": "78260332614-mqtqat1f5i9afligh8dshtl93l7hk0cc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCF9bWWoGtTAzysCPhU8NebmdjuA5t5ozc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78260332614-mqtqat1f5i9afligh8dshtl93l7hk0cc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
